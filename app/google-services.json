@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "554518741581",
+    "firebase_url": "https://randonneetunisie-ab890.firebaseio.com",
+    "project_id": "randonneetunisie-ab890",
+    "storage_bucket": "randonneetunisie-ab890.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:554518741581:android:cc879dd727bd2865",
+        "android_client_info": {
+          "package_name": "com.esprit.randonnetunisie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "554518741581-sd16pfjq89pfc55doktjktrb0vk62mjl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.esprit.randonnetunisie",
+            "certificate_hash": "88E80DF620310299BDD9C0B83CDF643F14FDBCA7"
+          }
+        },
+        {
+          "client_id": "554518741581-r2vm3l3he22ti4pbog2so6oqmacgdluc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_x0v6g2HPkSKXN9lOuBVXdbaCtJeEnmw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "554518741581-mnlvog875qijrev0b4f11ubfh4r3qml2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.esprit.Randonne-e-Tunisie"
+              }
+            },
+            {
+              "client_id": "554518741581-r2vm3l3he22ti4pbog2so6oqmacgdluc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
