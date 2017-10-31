@@ -15,9 +15,9 @@
 ## Screenshots
 
 <img src="/tunisia_hikes_screenshots/1.png" width="25%" height="25%" />
-![2](/tunisia_hikes_screenshots/2.png)
-![3](/tunisia_hikes_screenshots/3.png)
-![4](/tunisia_hikes_screenshots/4.png)
-![5](/tunisia_hikes_screenshots/5.png)
-![6](/tunisia_hikes_screenshots/6.png)
-![7](/tunisia_hikes_screenshots/7.png)
+<img src="/tunisia_hikes_screenshots/2.png" width="25%" height="25%" />
+<img src="/tunisia_hikes_screenshots/3.png" width="25%" height="25%" />
+<img src="/tunisia_hikes_screenshots/4.png" width="25%" height="25%" />
+<img src="/tunisia_hikes_screenshots/5.png" width="25%" height="25%" />
+<img src="/tunisia_hikes_screenshots/6.png" width="25%" height="25%" />
+<img src="/tunisia_hikes_screenshots/7.png" width="25%" height="25%" />
