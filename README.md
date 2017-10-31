@@ -2,7 +2,7 @@
 
 #### "Tunisia Hikes" is a social network dedicated to Tunisian hikers. It aims to bring people closer together and promote hiking in the country.
 #### We propose a platform to make sharing information about upcoming hikes easier. Users can comment on other people's hikes and post pictures of their experiences.
-#### In addition, users can share hikes on Facebook and invite their friends to participate. It's all about making a bigger community of people who share the same passion for this great sport.
+#### In addition, users can share hikes on Facebook and invite their friends to participate. It's all about making a bigger community of people who share the same passion for this great outdoor activity.
 #### Join now for the adventure of a lifetime.
 
 ## How to get the app
